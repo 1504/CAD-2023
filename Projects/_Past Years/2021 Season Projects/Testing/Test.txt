@@ -1,0 +1,3 @@
+To make sure github is working,
+
+Create a folder who's title is your name and put however far you got with your scissor lift inside.
